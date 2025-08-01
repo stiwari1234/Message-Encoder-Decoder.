@@ -1,4 +1,4 @@
-# caesar-cipher-encryption-and-decryption-technique
+# Message-Encoder-Decoder.
 Simple Cryptography with a GUI Interface
 
 This project implements the Caesar Cipher, a classical encryption technique, using Java Swing to provide an interactive graphical user interface (GUI). Encrypt and decrypt text seamlessly by shifting characters with a specified key.
