@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class sumit {
+public class MessageEncoder {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Caesar Cipher");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -87,4 +87,5 @@ public class sumit {
     public static String decrypt(String text, int shift) {
         return encrypt(text, 26 - shift);
     }
+
 }
